@@ -3,6 +3,26 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.assignment {
+    display:flex;
+    padding: 20px;
+    background:lightcyan;
+    margin:20px;
+}
+
+.assignment img {
+    width: 200px;
+    padding:20px;
+}
+.personas_assignment {
+    background:lightcyan
+}
+
+.personas_assignment img {
+    width: 200px;
+    padding:20px;
+}
+
 h1{
     color: darkslateblue;
     text-align:center;
