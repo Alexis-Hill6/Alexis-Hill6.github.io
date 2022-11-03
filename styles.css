@@ -1,6 +1,10 @@
 body {
-    background: orchid;
+    background: rgb(48, 150, 102);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    padding-right: 20px;
+    text-align: center;
+   
 }
 
 .assignment {
@@ -12,10 +16,17 @@ body {
 
 .assignment img {
     width: 200px;
-    padding:20px;
+    border: 5px solid rgb(7, 64, 71);
+    margin: 10px;
 }
 .personas_assignment {
     background:lightcyan
+}
+
+h1{
+    color: rgb(10, 4, 49);
+    text-align:center;
+
 }
 
 .personas_assignment img {
@@ -23,8 +34,12 @@ body {
     padding:20px;
 }
 
-h1{
-    color: darkslateblue;
-    text-align:center;
-
+a {
+    text-decoration: none;
+}
+a:hover{
+    color: darkgray;
+}
+h2 {
+    padding-right: 70px;
 }
